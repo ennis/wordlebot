@@ -1,0 +1,2 @@
+word2vec_model_file = "frWac_no_postag_no_phrase_500_skip_cut100.bin"
+db_path = "cabotin.db"
